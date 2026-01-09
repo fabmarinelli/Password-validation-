@@ -1,7 +1,8 @@
 # Password validation
 
 ## Anteprima
-<img width="877" height="705" alt="image" src="https://github.com/user-attachments/assets/654782d8-a61d-4044-8af6-f96607ba4e24" />
+<img width="737" height="648" alt="image" src="https://github.com/user-attachments/assets/149c7c1e-4a49-42f5-ae89-f5a577f195d4" />
+
 
 ## 🔒 Il Progetto
 Un controllore di validazione password pulito e interattivo realizzato con HTML, CSS e JavaScript. Questo progetto fornisce un feedback in tempo reale sulla sicurezza della password basata su requisiti comuni.
